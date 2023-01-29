@@ -59,9 +59,9 @@
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level and can make a number of attacks equal to half spell's level.</content>
   <content contentuid="0a16cd16-72fe-461d-8656-1ce7f9d0663b" version="1">Call Lightning</content>
 
-  <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ice Knife</content>
-  <content contentuid="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1">Shard still explodes.</content>
-  <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Create a shard of ice and fling it at a creature.</content>
-  <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">Shard deals [1] on a hit. The shard explodes on a hit or miss, dealing [2] to the target and surrounding creatures.</content>
+  <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ледяной Кинжал</content>
+  <content contentuid="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1">Осколок всё равно взрывается.</content>
+  <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Вы создаёте осколок льда и метаете его в одно существо.</content>
+  <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">При попадании осколка цель получает [1]. После этого, вне зависимости от попадания или промаха, осколок взрывается. Цель и все существа в пределах 5 футов от места взрыва осколка должны преуспеть в спасброске Ловкости, иначе получат [2].</content>
 
 </contentList>
