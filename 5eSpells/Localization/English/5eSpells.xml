@@ -69,6 +69,7 @@
   <content contentuid="h2ea8e7f9g52b6g40f6g86b3ge600dd9f6545" version="1">Detect creatures that bear magic using an action.</content>
   <content contentuid="hc3005671gc962g40e3g93c9g0ee7599b5169" version="1">Detected Magic</content>
   <content contentuid="h506843deg5003g40aega9c3g40ef0293c51b" version="1">Bears magic.</content>
-  <content contentuid="h94b7f026g19b7g4a19g9d50g688e8240a426" version="1">5eSpells_Ritual_ExtraDescription</content>
+  <content contentuid="h94b7f026g19b7g4a19g9d50g688e8240a426" version="1">This is a ritual spell and may be cast out of combat without expending a spell slot.</content>
 
+  <content contentuid="h22297a88ge8bbg42b6g831aga58b22f281d6" version="1">Create [1] darts of magical force, each dealing [2] to its target.</content>
 </contentList>

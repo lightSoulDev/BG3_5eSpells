@@ -25,7 +25,7 @@
   <content contentuid="h19acb846g9b95g402egbf92g24d1a3a7d9f9" version="1">Метнуть сферу энергии которая наносит [1].</content>
   <content contentuid="h244761acg78d0g466fg92b2gbeb6e322b081" version="2">Метнуть сферу энергии которая наносит [1].</content>
   <content contentuid="h487a736dgdca8g4175ga3d3g22cea0bbd9f9" version="1">Метнуть сферу энергии которая наносит [1].</content>
-  <content contentuid="h9ebff45bg8d4bg4074gb735gaafbb06d6d32" version="3">Метнуть сферу энергии. &lt;br&gt;&lt;br&gt;Сфера наносит 3d8 ед. урона громом или 2d8 ед. урона кислотой, холодом, огнем, молнией либо ядом.</content>
+  <content contentuid="h9ebff45bg8d4bg4074gb735gaafbb06d6d32" version="3">Метнуть сферу энергии. &lt;br&gt;&lt;br&gt;Сфера наносит [1] или [2] / [3] / [4] / [5] либо [6].</content>
   <content contentuid="hb2768dccg5275g4d0dg8e9dg1ca7b657310a" version="2">Метнуть сферу энергии которая наносит [1].</content>
   <content contentuid="he66e7983gb642g424eg9d7cgabd3fe48bd05" version="2">Метнуть сферу энергии которая наносит [1].</content>
   <content contentuid="h19acb846g9b95g402egbf92g24d1a3a7d9f9" version="1">Метнуть сферу энергии которая наносит [1].</content>
@@ -70,4 +70,8 @@
   <content contentuid="hc3005671gc962g40e3g93c9g0ee7599b5169" version="1">Обнаружена Магия</content>
   <content contentuid="h506843deg5003g40aega9c3g40ef0293c51b" version="1">Несет магию</content>
   <content contentuid="h94b7f026g19b7g4a19g9d50g688e8240a426" version="1">Это заклинание является ритуалом, и его можно использовать вне боя, не тратя ячейку заклинания.</content>
+
+  <content contentuid="h23d67c34g8b73g4e5cgad69g03014f23f6cc" version="3">Призвать луч болезнетворной энергии. Может &lt;LSTag Type="Status" Tooltip="POISONED"&gt;отравить&lt;/LSTag&gt; цель.</content>
+  <content contentuid="h22297a88ge8bbg42b6g831aga58b22f281d6" version="1">Создать [1] стрелы магической энергии, каждая из которых наносит цели [2].</content>
+
 </contentList>

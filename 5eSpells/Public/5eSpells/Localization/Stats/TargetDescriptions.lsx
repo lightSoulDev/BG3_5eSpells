@@ -67,6 +67,20 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h9ebff45bg8d4bg4074gb735gaafbb06d6d32" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Spell_ChromaticOrb_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h22297a88ge8bbg42b6g831aga58b22f281d6" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Spell_MagicMissile_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>
