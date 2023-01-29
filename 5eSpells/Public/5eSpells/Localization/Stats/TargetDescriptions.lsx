@@ -32,6 +32,41 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h17475b77gcaf9g4359gb2a8g65e33b667581" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Shout_DetectMagic_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hb06b23d2g1049g476fgb1aeg1459695a5601" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Spell_DetectMagic_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h2ea8e7f9g52b6g40f6g86b3ge600dd9f6545" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Boost_DetectMagic_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h506843deg5003g40aega9c3g40ef0293c51b" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Boost_DetectedMagic_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h94b7f026g19b7g4a19g9d50g688e8240a426" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Ritual_ExtraDescription" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>

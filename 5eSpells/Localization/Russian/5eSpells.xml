@@ -62,4 +62,12 @@
 
   <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Приободрить себя некромантическим подобием жизни, чтобы получить &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
   <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Получено &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
+
+  <content contentuid="he28ee622g6babg4ac0gbd9agd4eb27ea54a9" version="1">Обнаружение магии</content>
+  <content contentuid="h17475b77gcaf9g4359gb2a8g65e33b667581" version="1">Почувствуйте присутствие магии в пределах досягаемости и используйте действие, чтобы увидеть слабую ауру вокруг любого видимого существа в области, несущего магию.</content>
+  <content contentuid="hb06b23d2g1049g476fgb1aeg1459695a5601" version="1">Обнаружить существо, несущее магию.</content>
+  <content contentuid="h2ea8e7f9g52b6g40f6g86b3ge600dd9f6545" version="1">Обнаружить существо, несущее магию, используя действие.</content>
+  <content contentuid="hc3005671gc962g40e3g93c9g0ee7599b5169" version="1">Обнаружена Магия</content>
+  <content contentuid="h506843deg5003g40aega9c3g40ef0293c51b" version="1">Несет магию</content>
+  <content contentuid="h94b7f026g19b7g4a19g9d50g688e8240a426" version="1">Это заклинание является ритуалом, и его можно использовать вне боя, не тратя ячейку заклинания.</content>
 </contentList>
