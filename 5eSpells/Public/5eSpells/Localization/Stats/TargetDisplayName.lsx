@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="8" build="612" />
 	<region id="TranslatedStringKeys">
 		<node id="TranslatedStringKeys">
 			<children>
 				<node id="TranslatedStringKey">
-					<attribute id="Content" type="TranslatedString" handle="445cff2b-2785-40ec-a648-ea3addb363fe" version="1" />
-					<attribute id="UUID" type="FixedString" value="5eSpells_TooltipExtraTexts_EnemiesAbound" />
+					<attribute id="Content" type="TranslatedString" handle="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Spell_IceKnife_DisplayName" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
-				<node id="TranslatedStringKey">
-					<attribute id="Content" type="TranslatedString" handle="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1" />
-					<attribute id="UUID" type="FixedString" value="5eSpells_TooltipExtraTexts_IceKnife" />
+                <node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="he28ee622g6babg4ac0gbd9agd4eb27ea54a9" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Spell_DetectMagic_DisplayName" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
-				<node id="TranslatedStringKey">
-					<attribute id="Content" type="TranslatedString" handle="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1" />
-					<attribute id="UUID" type="FixedString" value="5eSpells_TooltipExtraTexts_LightningArrow" />
+                <node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hc3005671gc962g40e3g93c9g0ee7599b5169" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Boost_DetectedMagic_DisplayName" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
