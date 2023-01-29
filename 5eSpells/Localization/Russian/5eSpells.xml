@@ -13,11 +13,7 @@
   <content contentuid="he2c1c7ccg7b0cg4348gbd24gd585efb43e06" version="1">Придать отваги и здоровья себе или союзнику. Теперь цель невозможно &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испугать&lt;/LSTag&gt;, и она получают количество &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt; равное вашему &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;модификатору заклинательной способности&lt;/LSTag&gt; каждый ход</content>
   <content contentuid="h84fac665g901ag4c0ag857agfbaed9592795" version="1">Придать отваги и здоровья двум союзникам.&lt;br&gt;&lt;br&gt;Они получают &lt;LSTag Tooltip="Immune"&gt;невосприимчивость&lt;/LSTag&gt; к &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испугу&lt;/LSTag&gt; и получают количество &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt; равное вашему &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;модификатору заклинательной способности&lt;/LSTag&gt; каждый ход.</content>
   <content contentuid="hcb933390g800dg41b2g8dfcg90f47bcbaa3f" version="2">При успешном испытании цель все равно получает половину урона. Эта атака наносит дополниьелно [1] за каждый использованный круг ячейки заклинания выше 3-го на Пылающий шар.</content>
-  <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Приободрить себя некромантическим подобием жизни, чтобы получить 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
   
-  <content contentuid="h12f09fceg624ag477cgb44bg139179bd9465" version="3">Приободрить себя некромантическим подобием жизни, чтобы получить 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
-  <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Получено 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
-  <content contentuid="ha859f74fgf678g4745gb474g601b8399f6e3" version="1">Получено 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
   <content contentuid="hadd72be3g59f6g4c55g8df1ga7fc9589a54b" version="2">Рост растений</content>
   <content contentuid="hfc9eece6gb913g4bd6g9ef7gbb888cf2136f" version="3">Особо сложная местность - тратьте 4x &lt;LSTag Tooltip="MovementSpeed"&gt;скорость перемещения&lt;/LSTag&gt; когда двигаетесь.</content>
   <content contentuid="h40baaab8g04d4g4ab8gb877g2fcb1fc7d35a" version="1">Черные щупальца</content>
@@ -64,4 +60,6 @@
   <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Вы создаёте осколок льда и метаете его в одно существо.</content>
   <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">При попадании осколка цель получает [1]. После этого, вне зависимости от попадания или промаха, осколок взрывается. Цель и все существа в пределах 5 футов от места взрыва осколка должны преуспеть в спасброске Ловкости, иначе получат [2].</content>
 
+  <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Приободрить себя некромантическим подобием жизни, чтобы получить &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
+  <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Получено &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
 </contentList>

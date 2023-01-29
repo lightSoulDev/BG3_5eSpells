@@ -13,11 +13,7 @@
   <content contentuid="he2c1c7ccg7b0cg4348gbd24gd585efb43e06" version="1">Bolster yourself or an ally with valour and health.&lt;br&gt;&lt;br&gt;The target can no longer be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and gains Temporary Hit Points equal to your spellcasting ability modifier each turn.</content>
   <content contentuid="h84fac665g901ag4c0ag857agfbaed9592795" version="1">Bolster 2 allies with valour and health.&lt;br&gt;&lt;br&gt;They become &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and gain Temporary Hit Points equal to your spellcasting ability modifier each turn.</content>
   <content contentuid="hcb933390g800dg41b2g8dfcg90f47bcbaa3f" version="2">On a successful save, the target still takes half damage. This attack deals an additional [1] for each slot level used above 3rd on the Flaming Sphere.</content>
-  <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Bolster yourself with a necromantic facsimile of life to gain 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
 
-  <content contentuid="h12f09fceg624ag477cgb44bg139179bd9465" version="3">Bolster yourself with a necromantic facsimile of life to gain 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
-  <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Gained 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
-  <content contentuid="ha859f74fgf678g4745gb474g601b8399f6e3" version="1">Gained 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
   <content contentuid="hadd72be3g59f6g4c55g8df1ga7fc9589a54b" version="2">Plant Growth</content>
   <content contentuid="hfc9eece6gb913g4bd6g9ef7gbb888cf2136f" version="3">Extra difficult terrain - spend 4x &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; when moving.</content>
   <content contentuid="h40baaab8g04d4g4ab8gb877g2fcb1fc7d35a" version="1">Black Tentacles</content>
@@ -64,4 +60,6 @@
   <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Create a shard of ice and fling it at a creature.</content>
   <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">Shard deals [1] on a hit. The shard explodes on a hit or miss, dealing [2] to the target and surrounding creatures.</content>
 
+  <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Bolster yourself with a necromantic facsimile of life to gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
+  <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Gained &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
 </contentList>
