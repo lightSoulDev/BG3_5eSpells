@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="612" />
+	<region id="TranslatedStringKeys">
+		<node id="TranslatedStringKeys">
+			<children>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h60a28832g1187g4524ga60egc845145c7af7" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Spell_IceKnife_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+                <node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Spell_IceKnife_ExtraDescription" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -61,5 +61,7 @@
 
   <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ice Knife</content>
   <content contentuid="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1">Shard still explodes.</content>
+  <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Create a shard of ice and fling it at a creature.</content>
+  <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">Shard deals [1] on a hit. The shard explodes on a hit or miss, dealing [2] to the target and surrounding creatures.</content>
 
 </contentList>
