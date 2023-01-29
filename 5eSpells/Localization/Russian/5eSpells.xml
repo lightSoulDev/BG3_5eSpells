@@ -1,63 +1,63 @@
 <contentList date="26/10/2020 01:10">
-  <content contentuid="395581f6-e613-49ee-9311-5de834fe8cd7" version="1">Spiritual Weapon</content>
-  <content contentuid="6d9c4d1a-ffa6-4057-85e9-b7fb1ee9c568" version="1">Daylight</content>
-  <content contentuid="37723395-de46-4120-8191-28e6506cbc93" version="1">Healing Spirit</content>
-  <content contentuid="0c684636-31ce-4d8a-8055-1abd42ed8b37" version="1">Food and Water</content>
-  <content contentuid="0a68e3d4-b48a-48dd-bbfa-9d7a9af1fb25" version="1">This weapon is made of shadows, solidifed and given shape through the power of the Weave.</content>
-  <content contentuid="d3f24984-a6a2-40c3-9924-4cc9eb581959" version="1">Shadow Blade</content>
-  <content contentuid="6e0fb4ec-097f-46f3-ac8d-54c5d6a1e5c4" version="1">Dust Devil</content>
-  <content contentuid="hf39ea75eg908ag4f11gb8d4gf5bda6177a3d" version="2">Eat this berry to regain 1 &lt;LSTag Tooltip="HitPoint"&gt;Hit Points&lt;/LSTag&gt;. &lt;i&gt;Plump and juicy, this berry exudes a soothing, sweet smell.&lt;/i&gt;</content>
-  <content contentuid="h64652503g229ag4f9ag819cg8d9411c66209" version="1">Create a cloud of magical darkness to Heavily Obscure and Blind creatures within from a chosen point or infuse an object with emanating darkness.</content>
-  <content contentuid="e5a403da-d011-411d-9861-376608135a8d" version="1">Gust of Wind</content>
-  <content contentuid="h967f2daeg8870g49dfgbff9g7c3a00df4305" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; when using this Spell on creatures wearing metal armour. This spell deals [1] at 5th level, [2] at 11th level and [3] at 17th level.</content>
-  <content contentuid="he2c1c7ccg7b0cg4348gbd24gd585efb43e06" version="1">Bolster yourself or an ally with valour and health.&lt;br&gt;&lt;br&gt;The target can no longer be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and gains Temporary Hit Points equal to your spellcasting ability modifier each turn.</content>
-  <content contentuid="h84fac665g901ag4c0ag857agfbaed9592795" version="1">Bolster 2 allies with valour and health.&lt;br&gt;&lt;br&gt;They become &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and gain Temporary Hit Points equal to your spellcasting ability modifier each turn.</content>
-  <content contentuid="hcb933390g800dg41b2g8dfcg90f47bcbaa3f" version="2">On a successful save, the target still takes half damage. This attack deals an additional [1] for each slot level used above 3rd on the Flaming Sphere.</content>
-  <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Bolster yourself with a necromantic facsimile of life to gain 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
-
-  <content contentuid="h12f09fceg624ag477cgb44bg139179bd9465" version="3">Bolster yourself with a necromantic facsimile of life to gain 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
-  <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Gained 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
-  <content contentuid="ha859f74fgf678g4745gb474g601b8399f6e3" version="1">Gained 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Temporary Hit Points&lt;/LSTag&gt;.</content>
-  <content contentuid="hadd72be3g59f6g4c55g8df1ga7fc9589a54b" version="2">Plant Growth</content>
-  <content contentuid="hfc9eece6gb913g4bd6g9ef7gbb888cf2136f" version="3">Extra difficult terrain - spend 4x &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; when moving.</content>
-  <content contentuid="h40baaab8g04d4g4ab8gb877g2fcb1fc7d35a" version="1">Black Tentacles</content>
-  <content contentuid="h37d6c70cgcccbg40f2g926fgd4dd9ab28562" version="1">Difficult terrain - &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is halved and creatures may take 3d6 Bludgeoning damage each turn and be Restrained.</content>
-  <content contentuid="4e4e794e-6b1e-40e1-b2ad-bfd426967c31" version="1">Hunger of Hadar</content>
-  <content contentuid="hd8f1368egaf40g4e7cg9a1fge3094286c7e4" version="2">Conjure ten magical berries for yourself or a companion. Creatures who eat a berry regain [1].</content>
-  <content contentuid="aef5f671-2755-4e48-984b-a92d0aac419c" version="2">Bestial Spirit of Air</content>
-  <content contentuid="72a09460-ce2d-48b2-8f89-d7ebfa388cee" version="2">Bestial Spirit of Land</content>
-  <content contentuid="h19acb846g9b95g402egbf92g24d1a3a7d9f9" version="1">Hurl a sphere of energy that deals [1].</content>
-  <content contentuid="h244761acg78d0g466fg92b2gbeb6e322b081" version="2">Hurl a sphere of energy that deals [1].</content>
-  <content contentuid="h487a736dgdca8g4175ga3d3g22cea0bbd9f9" version="1">Hurl a sphere of energy that deals [1].</content>
-  <content contentuid="h9ebff45bg8d4bg4074gb735gaafbb06d6d32" version="3">Hurl a sphere of energy. &lt;br&gt;&lt;br&gt;It deals 3d8 Thunder damage, or 2d8 Acid, Cold, Fire, Lightning or poison damage.</content>
-  <content contentuid="hb2768dccg5275g4d0dg8e9dg1ca7b657310a" version="2">Hurl a sphere of energy that deals [1].</content>
-  <content contentuid="he66e7983gb642g424eg9d7cgabd3fe48bd05" version="2">Hurl a sphere of energy that deals [1].</content>
-  <content contentuid="h19acb846g9b95g402egbf92g24d1a3a7d9f9" version="1">Hurl a sphere of energy that deals [1].</content>
-  <content contentuid="h3c804d34g56e4g4e60g8ec1ge6e8a81660c5" version="1">Create a cloud of dense fog to Heavily Obscure and Blind creatures within.</content>
-  <content contentuid="eadc5c99-bb5e-4847-9582-67cfa647845e" version="1">Cloudkill</content>
-  <content contentuid="8c82f3bc-6a84-44fe-93ee-3042e4bf07f8" version="1">Wall of Stone</content>
-  <content contentuid="1041f2df-59c1-431d-8058-6d3d7421a3ed" version="1">Guardian of Faith</content>
-  <content contentuid="23c7aa11-9985-40d1-818e-8ea2c5354a4b" version="1">Fire Elemental</content>
-  <content contentuid="12ecb521-e19d-4bea-977a-6ecc48ef1df7" version="1">Earth Elemental</content>
-  <content contentuid="9668954d-a22f-476b-bcff-f16994aadedf" version="1">Air Elemental</content>
-  <content contentuid="218798fd-fc4c-42b2-912b-cb055170c7c6" version="1">Water Elemental</content>
-  <content contentuid="a7327c66-4713-4ec7-97de-665b84f00577" version="1">Grasping Vine</content>
-  <content contentuid="62e5bae3-3cd6-4977-a10c-8ea37b9b003a" version="1">Maddening Darkness</content>
-  <content contentuid="43c787dd-bf8b-4042-b2d2-947ea6e966d8" version="1">This bow shoots forth a bolt of lightning.</content>
-  <content contentuid="5d99218e-d918-4682-affb-37b0ea072ae5" version="1">Lightning Arrow</content>
-  <content contentuid="8f7b58a4-61b1-4912-a569-c7bdb80bf73b" version="1">Shadowspawn</content>
-  <content contentuid="a75d496a-c0b0-4f8a-8176-a2a55c93ce47" version="1">Draconic Spirit</content>
-  <content contentuid="92b9a85e-5d79-4a5f-9b9c-28037fb8189c" version="1">Aether Storm</content>
-  <content contentuid="6651021e-0474-4968-a12d-1d3db631a357" version="1">Conjure an additional familiar per level.</content>
-  <content contentuid="1b745f89-847b-4dc3-91b2-40ed12a08414" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level.</content>
-  <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Spell range increases by [1] per level.</content>
-  <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Target deals an additional 1d6 damage of the chosen damage type per level.</content>
-  <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Deals an additional 1d6 damage of a random type per level.</content>
-  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Target repeats saving throw each time it takes damage.</content>
-  <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Arrow still explodes.</content>
-  <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Creates two more meteors per level.</content>
-  <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level and can make a number of attacks equal to half spell's level.</content>
-  <content contentuid="0a16cd16-72fe-461d-8656-1ce7f9d0663b" version="1">Call Lightning</content>
+  <content contentuid="395581f6-e613-49ee-9311-5de834fe8cd7" version="1">Божественное оружие</content>
+  <content contentuid="6d9c4d1a-ffa6-4057-85e9-b7fb1ee9c568" version="1">Дневной свет</content>
+  <content contentuid="37723395-de46-4120-8191-28e6506cbc93" version="1">Исцеляющий дух</content>
+  <content contentuid="0c684636-31ce-4d8a-8055-1abd42ed8b37" version="1">Пища и вода</content>
+  <content contentuid="0a68e3d4-b48a-48dd-bbfa-9d7a9af1fb25" version="1">Это оружие создано из теней, затвердевших и приданных формы с помощью силы Плетения.</content>
+  <content contentuid="d3f24984-a6a2-40c3-9924-4cc9eb581959" version="1">Теневой клинок</content>
+  <content contentuid="6e0fb4ec-097f-46f3-ac8d-54c5d6a1e5c4" version="1">Пылевой вихрь</content>
+  <content contentuid="hf39ea75eg908ag4f11gb8d4gf5bda6177a3d" version="2">Съешьте эту ягоду, чтобы восстановить 1 &lt;LSTag Tooltip="HitPoint"&gt;ОЗ&lt;/LSTag&gt;. &lt;i&gt;Пухлая и сочный, это ягода испускает успокаивающий, сладкий запах..&lt;/i&gt;</content>
+  <content contentuid="h64652503g229ag4f9ag819cg8d9411c66209" version="1">Создать плотную гущу магической тьмы. Оказавшиеся в ней существа попадают в сильное затемнение и &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;слепнут&lt;/LSTag&gt; или наполните тьмой, излучющей магическую ауру.</content>
+  <content contentuid="e5a403da-d011-411d-9861-376608135a8d" version="1">Порыв ветра</content>
+  <content contentuid="h967f2daeg8870g49dfgbff9g7c3a00df4305" version="1">Применяя это заклинание против существ, одетых в металлическую броню, вы получаете &lt;LSTag Tooltip="Advantage"&gt;преимущество&lt;/LSTag&gt;. Это заклинание наносит [1] на 5-м уровне, [2] на 11-м уровне и [3] на 17 уровне.</content>
+  <content contentuid="he2c1c7ccg7b0cg4348gbd24gd585efb43e06" version="1">Придать отваги и здоровья себе или союзнику. Теперь цель невозможно &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испугать&lt;/LSTag&gt;, и она получают количество &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt; равное вашему &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;модификатору заклинательной способности&lt;/LSTag&gt; каждый ход</content>
+  <content contentuid="h84fac665g901ag4c0ag857agfbaed9592795" version="1">Придать отваги и здоровья двум союзникам.&lt;br&gt;&lt;br&gt;Они получают &lt;LSTag Tooltip="Immune"&gt;невосприимчивость&lt;/LSTag&gt; к &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испугу&lt;/LSTag&gt; и получают количество &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt; равное вашему &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;модификатору заклинательной способности&lt;/LSTag&gt; каждый ход.</content>
+  <content contentuid="hcb933390g800dg41b2g8dfcg90f47bcbaa3f" version="2">При успешном испытании цель все равно получает половину урона. Эта атака наносит дополниьелно [1] за каждый использованный круг ячейки заклинания выше 3-го на Пылающий шар.</content>
+  <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Приободрить себя некромантическим подобием жизни, чтобы получить 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
+  
+  <content contentuid="h12f09fceg624ag477cgb44bg139179bd9465" version="3">Приободрить себя некромантическим подобием жизни, чтобы получить 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
+  <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Получено 1d4 + 4 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
+  <content contentuid="ha859f74fgf678g4745gb474g601b8399f6e3" version="1">Получено 1d4 + 9 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt;.</content>
+  <content contentuid="hadd72be3g59f6g4c55g8df1ga7fc9589a54b" version="2">Рост растений</content>
+  <content contentuid="hfc9eece6gb913g4bd6g9ef7gbb888cf2136f" version="3">Особо сложная местность - тратьте 4x &lt;LSTag Tooltip="MovementSpeed"&gt;скорость перемещения&lt;/LSTag&gt; когда двигаетесь.</content>
+  <content contentuid="h40baaab8g04d4g4ab8gb877g2fcb1fc7d35a" version="1">Черные щупальца</content>
+  <content contentuid="h37d6c70cgcccbg40f2g926fgd4dd9ab28562" version="1">Сложная местность – &lt;LSTag Tooltip="MovementSpeed"&gt;скорость перемещения&lt;/LSTag&gt; снижается вдвое, а существа могут получить 3d6 ед. дробящего урона каждый ход и быть &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Обездвиженными&lt;/LSTag&gt;.</content>
+  <content contentuid="4e4e794e-6b1e-40e1-b2ad-bfd426967c31" version="1">Голод Хадара</content>
+  <content contentuid="hd8f1368egaf40g4e7cg9a1fge3094286c7e4" version="2">Сотворить десять магических ягод себе или спутнику. Съев ягоду Вы можете восстановить [1].</content>
+  <content contentuid="aef5f671-2755-4e48-984b-a92d0aac419c" version="2">Дух воздушного зверя</content>
+  <content contentuid="72a09460-ce2d-48b2-8f89-d7ebfa388cee" version="2">Дух земляного зверя</content>
+  <content contentuid="h19acb846g9b95g402egbf92g24d1a3a7d9f9" version="1">Метнуть сферу энергии которая наносит [1].</content>
+  <content contentuid="h244761acg78d0g466fg92b2gbeb6e322b081" version="2">Метнуть сферу энергии которая наносит [1].</content>
+  <content contentuid="h487a736dgdca8g4175ga3d3g22cea0bbd9f9" version="1">Метнуть сферу энергии которая наносит [1].</content>
+  <content contentuid="h9ebff45bg8d4bg4074gb735gaafbb06d6d32" version="3">Метнуть сферу энергии. &lt;br&gt;&lt;br&gt;Сфера наносит 3d8 ед. урона громом или 2d8 ед. урона кислотой, холодом, огнем, молнией либо ядом.</content>
+  <content contentuid="hb2768dccg5275g4d0dg8e9dg1ca7b657310a" version="2">Метнуть сферу энергии которая наносит [1].</content>
+  <content contentuid="he66e7983gb642g424eg9d7cgabd3fe48bd05" version="2">Метнуть сферу энергии которая наносит [1].</content>
+  <content contentuid="h19acb846g9b95g402egbf92g24d1a3a7d9f9" version="1">Метнуть сферу энергии которая наносит [1].</content>
+  <content contentuid="h3c804d34g56e4g4e60g8ec1ge6e8a81660c5" version="1">Создать плотное облако тумана. Оказавшиеся в нем существа попадают в сильное затемнение и &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;слепнут&lt;/LSTag&gt;.</content>
+  <content contentuid="eadc5c99-bb5e-4847-9582-67cfa647845e" version="1">Облако смерти</content>
+  <content contentuid="8c82f3bc-6a84-44fe-93ee-3042e4bf07f8" version="1">Каменная стена</content>
+  <content contentuid="1041f2df-59c1-431d-8058-6d3d7421a3ed" version="1">Страж веры</content>
+  <content contentuid="23c7aa11-9985-40d1-818e-8ea2c5354a4b" version="1">Огненный Элементаль</content>
+  <content contentuid="12ecb521-e19d-4bea-977a-6ecc48ef1df7" version="1">Земляной Элементаль</content>
+  <content contentuid="9668954d-a22f-476b-bcff-f16994aadedf" version="1">Воздушный Элементаль</content>
+  <content contentuid="218798fd-fc4c-42b2-912b-cb055170c7c6" version="1">Водяной Элементаль</content>
+  <content contentuid="a7327c66-4713-4ec7-97de-665b84f00577" version="1">Цепкая лоза</content>
+  <content contentuid="62e5bae3-3cd6-4977-a10c-8ea37b9b003a" version="1">Одуряющая тьма</content>
+  <content contentuid="43c787dd-bf8b-4042-b2d2-947ea6e966d8" version="1">Этот лук стреляет разрядами молний.</content>
+  <content contentuid="5d99218e-d918-4682-affb-37b0ea072ae5" version="1">Молниевая стрела</content>
+  <content contentuid="8f7b58a4-61b1-4912-a569-c7bdb80bf73b" version="1">Дух тени</content>
+  <content contentuid="a75d496a-c0b0-4f8a-8176-a2a55c93ce47" version="1">Дух дракона</content>
+  <content contentuid="92b9a85e-5d79-4a5f-9b9c-28037fb8189c" version="1">Эфирный шторм</content>
+  <content contentuid="6651021e-0474-4968-a12d-1d3db631a357" version="1">Создать дополнительно одного фамильяра за каждый круг.</content>
+  <content contentuid="1b745f89-847b-4dc3-91b2-40ed12a08414" version="1">Призыв получает [1] к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt;, [2] и наносит дополнительно [1] урона на атаку за круг.</content>
+  <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Дальность атаки заклинания увеличивается [1] за круг.</content>
+  <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Цель наносит дополнительно 1d6 ед. урона выбранного типа за круг.</content>
+  <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Наносит дополнительно 1d6 ед. урона случайного типа за круг.</content>
+  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Цель повторяет &lt;LSTag Tooltip="SavingThrow"&gt;испытание&lt;/LSTag&gt; каждый раз когда получает урон.</content>
+  <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Стрела все равно взрвывается.</content>
+  <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Создает два дополнительных метеора за круг.</content>
+  <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Призыв получает [1] к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt;, [2] и наносит дополнительно [1] урона на атаку за круг и может совершить количество атак равных половине круга заклинания.</content>
+  <content contentuid="0a16cd16-72fe-461d-8656-1ce7f9d0663b" version="1">Призыв молнии</content>
 
   <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ледяной Кинжал</content>
   <content contentuid="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1">Осколок всё равно взрывается.</content>
