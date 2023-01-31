@@ -49,7 +49,7 @@
   <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Spell range increases by [1] per level.</content>
   <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Target deals an additional 1d6 damage of the chosen damage type per level.</content><i><b>[1]</b></i>
   <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Deals an additional 1d6 damage of a random type per level.</content>
-  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Target repeats saving throw each time it takes damage.</content>
+  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Target repeats &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; each time it takes damage.</content>
   <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Arrow still explodes.</content>
   <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Creates two more meteors per level.</content>
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level and can make a number of attacks equal to half spell's level.</content>
@@ -82,4 +82,9 @@
 
   <content contentuid="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1">Catapult</content> 
   <content contentuid="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1">Surround a loose object weighing [1] lbs or less with force, preparing it to be launched at a creature.</content> 
+  <content contentuid="h02b4c12ag5b4eg4523g91dfgb28fb29fb57f" version="1">Launch a previously chosen object at a creature.</content>
+
+  <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Cause Fear</content>
+  <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Awaken the sense of mortality in a creature to become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; of you.</content>
+  <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Constructs and undead are immune to this effect. Additionally, the target can repeat the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; on each of its turns.</content>
 </contentList>

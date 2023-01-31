@@ -46,6 +46,13 @@
                     <attribute id="ExtraData" type="LSString" value="" />
                     <attribute id="Stub" type="bool" value="True" />
                 </node>
+				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_CauseFear_SpellData_DisplayName" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
 			</children>
 		</node>
 	</region>
