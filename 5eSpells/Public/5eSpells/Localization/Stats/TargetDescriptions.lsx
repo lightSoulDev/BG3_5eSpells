@@ -81,6 +81,20 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h55035fceg866cg4709gafe1g1a0b412c8f88" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Shout_AbsorbElements_SpellData_Description" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="hfe14636bgaea1g499dg932fg1f020f43ad90" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Shout_AbsorbElements_SpellData_ExtraDescription" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
 			</children>
 		</node>
 	</region>

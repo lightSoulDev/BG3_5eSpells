@@ -47,7 +47,7 @@
   <content contentuid="6651021e-0474-4968-a12d-1d3db631a357" version="1">Conjure an additional familiar per level.</content>
   <content contentuid="1b745f89-847b-4dc3-91b2-40ed12a08414" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level.</content>
   <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Spell range increases by [1] per level.</content>
-  <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Target deals an additional 1d6 damage of the chosen damage type per level.</content>
+  <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Target deals an additional 1d6 damage of the chosen damage type per level.</content><i><b>[1]</b></i>
   <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Deals an additional 1d6 damage of a random type per level.</content>
   <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Target repeats saving throw each time it takes damage.</content>
   <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Arrow still explodes.</content>
@@ -72,4 +72,8 @@
   <content contentuid="h94b7f026g19b7g4a19g9d50g688e8240a426" version="1">This is a ritual spell and may be cast out of combat without expending a spell slot.</content>
 
   <content contentuid="h22297a88ge8bbg42b6g831aga58b22f281d6" version="1">Create [1] darts of magical force, each dealing [2] to its target.</content>
+
+  <content contentuid="hed3a6e09g627eg4b32g8f0bgd6e4203e2669" version="1">Absorb Elements</content>     
+  <content contentuid="h55035fceg866cg4709gafe1g1a0b412c8f88" version="1">Capture incoming energy, lessening its effect on you and storing it for your next melee attack.</content>     
+  <content contentuid="hfe14636bgaea1g499dg932fg1f020f43ad90" version="1">You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra &lt;i&gt;&lt;b&gt;[1] damage&lt;/b&gt;&lt;/i&gt; of the triggering type, and the spell ends.</content>
 </contentList>
