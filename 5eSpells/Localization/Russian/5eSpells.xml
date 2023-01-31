@@ -80,4 +80,7 @@
 
   <content contentuid="hc592da99ga11dg4639ga1a9ge7709ca990fd" version="1">Звериные узы</content>
   <content contentuid="hb27e7012g9e2cg42e3g9c70gd11190100872" version="1">Вы устанавливаете телепатическую связь с одним Зверем, которого касаетесь, если он дружественен вам или очарован вами. Зверь получает &lt;LSTag Tooltip="Advantage"&gt;преимущество&lt;/LSTag&gt; при &lt;LSTag Tooltip="AttackRoll"&gt;бросках атаки&lt;/LSTag&gt; против существ в пределах [1] от вас.</content>
+
+  <content contentuid="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1">Катапульта</content> 
+  <content contentuid="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1">Окружите силой свободный объект весом до [1] фунтов, подготовив его к запуску.</content> 
 </contentList>

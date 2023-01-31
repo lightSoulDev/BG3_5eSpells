@@ -102,6 +102,13 @@
                     <attribute id="ExtraData" type="LSString" value="" />
                     <attribute id="Stub" type="bool" value="True" />
                 </node>
+				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_Catapult_SpellData_Description" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
 			</children>
 		</node>
 	</region>

@@ -79,4 +79,7 @@
 
   <content contentuid="hc592da99ga11dg4639ga1a9ge7709ca990fd" version="1">Beast Bond</content>
   <content contentuid="hb27e7012g9e2cg42e3g9c70gd11190100872" version="1">Establish a telepathic link with a friendly beast or one charmed by you. The beast gains &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against creatures within [1] of you.</content>
+
+  <content contentuid="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1">Catapult</content> 
+  <content contentuid="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1">Surround a loose object weighing [1] lbs or less with force, preparing it to be launched at a creature.</content> 
 </contentList>
