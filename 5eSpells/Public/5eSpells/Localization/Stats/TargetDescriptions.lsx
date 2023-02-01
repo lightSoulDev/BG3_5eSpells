@@ -165,6 +165,20 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h99af3d3egb4d0g463cg983eg8205298515d0" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Target_ChaosBolt_SpellData_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h8246359bg2940g41ffga830g71c59048c24d" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Target_ChaosBolt_SpellData_ExtraDescription" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>
