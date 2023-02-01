@@ -39,6 +39,13 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hf58e6f29ge97bg40d5gbe6egdc3c94f8c2fb" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Shout_EarthTremor_SpellData_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>
