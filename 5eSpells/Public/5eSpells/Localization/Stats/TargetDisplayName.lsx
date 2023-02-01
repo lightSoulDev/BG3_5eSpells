@@ -81,6 +81,13 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h27750f06g068dg4fa8gb76bge792f0bdd04e" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Shout_DetectEvilAndGood_SpellData_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>

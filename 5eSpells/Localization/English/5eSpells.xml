@@ -92,4 +92,6 @@
 	<content contentuid="h1747ef1fg7a79g42eagb2d3gaaadbb80d841" version="1">5eSpells_Target_Heroism_SpellData_Description</content>
 	<content contentuid="h39339498g66cfg4840g9de8gc6693b2055b1" version="1">5eSpells_Target_Ceremony_SpellData_DisplayName</content>
 	<content contentuid="hf2898b28gb55eg43ebgb840g63c44d9e1864" version="1">5eSpells_Target_Ceremony_SpellData_Description</content>
+	<content contentuid="h27750f06g068dg4fa8gb76bge792f0bdd04e" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_DisplayName</content>
+	<content contentuid="h117e11d3gb0e5g417dg88c5gfaa623a31c38" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_Description</content>
 </contentList>
