@@ -89,4 +89,6 @@
 	<content contentuid="ha4e51ef9g3de8g42e0g9a18gf5364e9e62b9" version="1">5eSpells_Shout_Shield_SpellData_DisplayName</content>
 	<content contentuid="h44aa1dfag70c5g4a48gbce5g5bdc45b2f8c1" version="1">5eSpells_Shout_Shield_SpellData_Description</content>
 	<content contentuid="h47528f36g1a08g4d55gbdbdgd77ad3051f02" version="1">5eSpells_Shout_Shield_SpellData_ExtraDescription</content>
+	<content contentuid="h8b7c84cdg5755g467fga164g8d364eba9865" version="1">5eSpells_Target_Heroism_SpellData_DisplayName</content>
+	<content contentuid="h1747ef1fg7a79g42eagb2d3gaaadbb80d841" version="1">5eSpells_Target_Heroism_SpellData_Description</content>
 </contentList>
