@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <contentList date="26/10/2020 01:10">
   <content contentuid="395581f6-e613-49ee-9311-5de834fe8cd7" version="1">Божественное оружие</content>
   <content contentuid="6d9c4d1a-ffa6-4057-85e9-b7fb1ee9c568" version="1">Дневной свет</content>
@@ -77,4 +78,6 @@
   <content contentuid="hed3a6e09g627eg4b32g8f0bgd6e4203e2669" version="1">Поглощение стихий</content>     
   <content contentuid="h55035fceg866cg4709gafe1g1a0b412c8f88" version="1">Заклинание поглощает часть энергии, направленной на вас, ослабляя эффект и запасая эту энергию для использования во время следующей рукопашной атаки.</content>     
   <content contentuid="hfe14636bgaea1g499dg932fg1f020f43ad90" version="1">До начала своего следующего хода вы получаете сопротивление тому виду урона, который спровоцировал данное заклинание. Кроме того, когда вы впервые попадаете рукопашной атакой в следующем ходу, цель получает дополнительно &lt;i&gt;&lt;b&gt;[1] ед. урона&lt;/b&gt;&lt;/i&gt; этого вида, после чего заклинание заканчивается.</content>
+	<content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
+	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
 </contentList>
