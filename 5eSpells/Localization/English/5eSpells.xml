@@ -81,4 +81,6 @@
 	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
 	<content contentuid="hf58e6f29ge97bg40d5gbe6egdc3c94f8c2fb" version="1">5eSpells_Shout_EarthTremor_SpellData_DisplayName</content>
 	<content contentuid="hfcde2f80gec16g41a5gaf31ga18fc1df51db" version="1">5eSpells_Shout_EarthTremor_SpellData_Description</content>
+	<content contentuid="hfbc4e4c0g9c8ag4aebgbbfegb7e921e983ee" version="1">5eSpells_Target_UnseenServant_SpellData_DisplayName</content>
+	<content contentuid="ha240c09fge3e5g44d4g8377g26d5112ea6b6" version="1">5eSpells_Target_UnseenServant_SpellData_Description</content>
 </contentList>
