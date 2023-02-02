@@ -249,6 +249,27 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h25a7e6e4g40c9g4124gbc8ag3120bf1e2c9d" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Target_SummonBeast_SpellData_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h648fcf96gd91cg47dfg809fge4c2ca16ab28" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Target_SummonBeast_Land_SpellData_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h7b73e64bg7fbdg4bd0ga7d9g33bdbea09183" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Target_SummonBeast_Air_SpellData_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>

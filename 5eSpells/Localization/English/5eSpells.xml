@@ -133,4 +133,11 @@
 
 	<content contentuid="h8680a9a0gb72cg42e9gad61g6b5135ad416f" version="1">Deals [1] per turn.</content>
   
+	<content contentuid="hfc3c18b8g3c39g4019gb83dg1e9d95b169aa" version="1">Summon Beast</content>
+	<content contentuid="h25a7e6e4g40c9g4124gbc8ag3120bf1e2c9d" version="1">Call forth an allied bestial spirit from an environment of Air or Land.</content>
+	<content contentuid="h63d98c2cg2abfg4988gaa0bge6dc87b00fc4" version="1">Summon Beast: Land</content>
+	<content contentuid="h648fcf96gd91cg47dfg809fge4c2ca16ab28" version="1">Call forth an allied bestial spirit from an environment of Land.</content>
+	<content contentuid="ha4cdcc7cgab0bg4efdgb244g0a800a06a7d9" version="1">Summon Beast: Air</content>
+	<content contentuid="h7b73e64bg7fbdg4bd0ga7d9g33bdbea09183" version="1">Call forth an allied bestial spirit from an environment of Air.</content>
+  
 </contentList>
