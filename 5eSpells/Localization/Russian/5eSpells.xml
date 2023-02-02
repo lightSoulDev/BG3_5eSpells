@@ -13,7 +13,7 @@
   <content contentuid="h967f2daeg8870g49dfgbff9g7c3a00df4305" version="1">Применяя это заклинание против существ, одетых в металлическую броню, вы получаете &lt;LSTag Tooltip="Advantage"&gt;преимущество&lt;/LSTag&gt;. Это заклинание наносит [1] на 5-м уровне, [2] на 11-м уровне и [3] на 17 уровне.</content>
   <content contentuid="he2c1c7ccg7b0cg4348gbd24gd585efb43e06" version="1">Придать отваги и здоровья себе или союзнику. Теперь цель невозможно &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испугать&lt;/LSTag&gt;, и она получают количество &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt; равное вашему &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;модификатору заклинательной способности&lt;/LSTag&gt; каждый ход</content>
   <content contentuid="h84fac665g901ag4c0ag857agfbaed9592795" version="1">Придать отваги и здоровья двум союзникам.&lt;br&gt;&lt;br&gt;Они получают &lt;LSTag Tooltip="Immune"&gt;невосприимчивость&lt;/LSTag&gt; к &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;испугу&lt;/LSTag&gt; и получают количество &lt;LSTag Tooltip="TemporaryHitPoints"&gt;временных ОЗ&lt;/LSTag&gt; равное вашему &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;модификатору заклинательной способности&lt;/LSTag&gt; каждый ход.</content>
-  <content contentuid="hcb933390g800dg41b2g8dfcg90f47bcbaa3f" version="2">При успешном испытании цель все равно получает половину урона. Эта атака наносит дополниьелно [1] за каждый использованный круг ячейки заклинания выше 3-го на Пылающий шар.</content>
+  <content contentuid="hcb933390g800dg41b2g8dfcg90f47bcbaa3f" version="2">При успешном спасброске цель все равно получает половину урона. Эта атака наносит дополниьелно [1] за каждый использованный круг ячейки заклинания выше 3-го на Пылающий шар.</content>
   
   <content contentuid="hadd72be3g59f6g4c55g8df1ga7fc9589a54b" version="2">Рост растений</content>
   <content contentuid="hfc9eece6gb913g4bd6g9ef7gbb888cf2136f" version="3">Особо сложная местность - тратьте 4x &lt;LSTag Tooltip="MovementSpeed"&gt;скорость перемещения&lt;/LSTag&gt; когда двигаетесь.</content>
@@ -50,7 +50,7 @@
   <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Дальность атаки заклинания увеличивается [1] за круг.</content>
   <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Цель наносит дополнительно 1d6 ед. урона выбранного типа за круг.</content>
   <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Наносит дополнительно 1d6 ед. урона случайного типа за круг.</content>
-  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Цель повторяет &lt;LSTag Tooltip="SavingThrow"&gt;испытание&lt;/LSTag&gt; каждый раз когда получает урон.</content>
+  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Цель повторяет &lt;LSTag Tooltip="SavingThrow"&gt;спасбпросок&lt;/LSTag&gt; каждый раз когда получает урон.</content>
   <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Стрела все равно взрвывается.</content>
   <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Создает два дополнительных метеора за круг.</content>
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Призыв получает [1] к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt;, [2] и наносит дополнительно [1] урона на атаку за круг и может совершить количество атак равных половине круга заклинания.</content>
@@ -59,7 +59,7 @@
   <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ледяной Кинжал</content>
   <content contentuid="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1">Осколок всё равно взрывается.</content>
   <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Вы создаёте осколок льда и метаете его в одно существо.</content>
-  <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">При попадании осколка цель получает [1]. После этого, вне зависимости от попадания или промаха, осколок взрывается. Цель и все существа в пределах 5 футов от места взрыва осколка должны преуспеть в &lt;LSTag Tooltip="SavingThrow"&gt;испытании&lt;/LSTag&gt; Ловкости, иначе получат [2].</content>
+  <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">При попадании осколка цель получает [1]. После этого, вне зависимости от попадания или промаха, осколок взрывается. Цель и все существа в пределах 5 футов от места взрыва осколка должны преуспеть в &lt;LSTag Tooltip="SavingThrow"&gt;спасброске&lt;/LSTag&gt; Ловкости, иначе получат [2].</content>
 
   <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Приободрить себя некромантическим подобием жизни, чтобы получить &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
   <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Получено &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
@@ -88,7 +88,7 @@
 
   <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Вызов страха</content>
   <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Вы пробуждаете ощущение смертности у одного существа, которое можете видеть в пределах дистанции, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Пугая&lt;/LSTag&gt; его.</content>
-  <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Конструкты или Нежить имеют иммунитет к этому эффекту. Цель может повторять &lt;LSTag Tooltip="SavingThrow"&gt;испытание&lt;/LSTag&gt; в конце каждого своего хода, оканчивая эффект при успехе.</content>
+  <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Конструкты или Нежить имеют иммунитет к этому эффекту. Цель может повторять &lt;LSTag Tooltip="SavingThrow"&gt;спасбпросок&lt;/LSTag&gt; в конце каждого своего хода, оканчивая эффект при успехе.</content>
 	
   <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
 	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
