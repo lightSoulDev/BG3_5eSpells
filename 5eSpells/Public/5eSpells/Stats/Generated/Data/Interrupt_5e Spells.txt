@@ -134,8 +134,8 @@ data "Properties" "IF(HasPassive('ArcaneWard',context.Observer) and not HasStatu
 
 new entry "Interrupt_Shield"
 type "InterruptData"
-data "DisplayName" "Shield"
-data "Description" "When you are hit by an attack or targeted by Magic Missile, you gain a +5 bonus to AC and take no damage from Magic Missile."
+data "DisplayName" "5eSpells_Interrupt_Shield_InterruptData_DisplayName"
+data "Description" "5eSpells_Interrupt_Shield_InterruptData_Description"
 data "Icon" "PassiveFeature_Shield"
 data "InterruptContext" "OnSpellCast;OnPostRoll"
 data "InterruptContextScope" "Self"

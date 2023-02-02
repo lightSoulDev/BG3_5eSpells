@@ -56,7 +56,7 @@
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Призыв получает [1] к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt;, [2] и наносит дополнительно [1] урона на атаку за круг и может совершить количество атак равных половине круга заклинания.</content>
   <content contentuid="0a16cd16-72fe-461d-8656-1ce7f9d0663b" version="1">Призыв молнии</content>
 
-  <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ледяной Кинжал</content>
+  <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ледяной кинжал</content>
   <content contentuid="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1">Осколок всё равно взрывается.</content>
   <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Вы создаёте осколок льда и метаете его в одно существо.</content>
   <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">При попадании осколка цель получает [1]. После этого, вне зависимости от попадания или промаха, осколок взрывается. Цель и все существа в пределах 5 футов от места взрыва осколка должны преуспеть в &lt;LSTag Tooltip="SavingThrow"&gt;спасброске&lt;/LSTag&gt; Ловкости, иначе получат [2].</content>
@@ -68,7 +68,7 @@
   <content contentuid="h17475b77gcaf9g4359gb2a8g65e33b667581" version="1">Почувствуйте присутствие магии в пределах досягаемости и используйте действие, чтобы увидеть слабую ауру вокруг любого видимого существа в области, несущего магию.</content>
   <content contentuid="hb06b23d2g1049g476fgb1aeg1459695a5601" version="1">Обнаружить существо, несущее магию.</content>
   <content contentuid="h2ea8e7f9g52b6g40f6g86b3ge600dd9f6545" version="1">Обнаружить существо, несущее магию, используя действие.</content>
-  <content contentuid="hc3005671gc962g40e3g93c9g0ee7599b5169" version="1">Обнаружена Магия</content>
+  <content contentuid="hc3005671gc962g40e3g93c9g0ee7599b5169" version="1">Обнаружена магия</content>
   <content contentuid="h506843deg5003g40aega9c3g40ef0293c51b" version="1">Несет магию</content>
   <content contentuid="h94b7f026g19b7g4a19g9d50g688e8240a426" version="1">Это заклинание является ритуалом, и его можно использовать вне боя, не тратя ячейку заклинания.</content>
 
@@ -85,6 +85,9 @@
   <content contentuid="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1">Катапульта</content> 
   <content contentuid="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1">Окружите силой свободный объект весом до [1] фунтов, подготовив его к запуску.</content> 
   <content contentuid="h02b4c12ag5b4eg4523g91dfgb28fb29fb57f" version="1">Запустить ранее выбранный объект в существо.</content>
+	
+  <content contentuid="h9e1aa47dg0925g4af6g8081g3f1dab17cc2b" version="1">Катапульта</content>
+	<content contentuid="hd52cce35ga025g4071gb013g79e0ee241e9b" version="1">Этот объект готов к катапультированию.</content>
 
   <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Вызов страха</content>
   <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Вы пробуждаете ощущение смертности у одного существа, которое можете видеть в пределах дистанции, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Пугая&lt;/LSTag&gt; его.</content>
@@ -94,24 +97,40 @@
 	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">Вы испускаете струю кислоты вдоль линии длиной [1] и шириной [2] в выбранном вами направлении.</content>
 	<content contentuid="h94f2f46bg51e5g4debg93f6gd2425fe45191" version="1">Каждое существо, находящееся на этой линии должно преуспеть в &lt;LSTag Tooltip="SavingThrow"&gt;спасброске&lt;/LSTag&gt; Ловкости, иначе станет покрыто кислотой на время действия заклинания. Существо, покрытое кислотой, получает [1] в начале каждого своего хода.</content>
 	
-  <content contentuid="hf58e6f29ge97bg40d5gbe6egdc3c94f8c2fb" version="1">5eSpells_Shout_EarthTremor_SpellData_DisplayName</content>
-	<content contentuid="hfcde2f80gec16g41a5gaf31ga18fc1df51db" version="1">5eSpells_Shout_EarthTremor_SpellData_Description</content>
-	<content contentuid="hfbc4e4c0g9c8ag4aebgbbfegb7e921e983ee" version="1">5eSpells_Target_UnseenServant_SpellData_DisplayName</content>
-	<content contentuid="ha240c09fge3e5g44d4g8377g26d5112ea6b6" version="1">5eSpells_Target_UnseenServant_SpellData_Description</content>
-	<content contentuid="he2888e26g9923g4ac0ga1a2gd790f2b657b7" version="1">5eSpells_Zone_FrostFingers_SpellData_DisplayName</content>
-	<content contentuid="h5b97cefeg69bfg45c7gaf69ge719dd556a87" version="1">5eSpells_Zone_FrostFingers_SpellData_Description</content>
-	<content contentuid="ha4e51ef9g3de8g42e0g9a18gf5364e9e62b9" version="1">5eSpells_Shout_Shield_SpellData_DisplayName</content>
-	<content contentuid="h44aa1dfag70c5g4a48gbce5g5bdc45b2f8c1" version="1">5eSpells_Shout_Shield_SpellData_Description</content>
-	<content contentuid="h47528f36g1a08g4d55gbdbdgd77ad3051f02" version="1">5eSpells_Shout_Shield_SpellData_ExtraDescription</content>
+  <content contentuid="hea8f303dge51cg4003gb2e1g64857590ac16" version="1">Кислота Таши</content>
+	
+  <content contentuid="hf58e6f29ge97bg40d5gbe6egdc3c94f8c2fb" version="1">Дрожь земли</content>
+	<content contentuid="hfcde2f80gec16g41a5gaf31ga18fc1df51db" version="1">Вы сотрясаете землю в пределах дистанции. Все существа, кроме вас, в этой области должны совершить &lt;LSTag Tooltip="SavingThrow"&gt;спасбросок&lt;/LSTag&gt; Ловкости. При провале существо получает [1] и падает &lt;LSTag Type="Status" Tooltip="PRONE"&gt;плашмя&lt;/LSTag&gt;.</content>
+	<content contentuid="h1567ee7dg2566g4591gb0f7g024f8cb9e095" version="1">Если поверхность представляет собой рыхлую землю или камень, то область воздействия становится сложной местностью – &lt;LSTag Tooltip="MovementSpeed"&gt;скорость перемещения&lt;/LSTag&gt; снижается вдвое.</content>
+
+	<content contentuid="hfbc4e4c0g9c8ag4aebgbbfegb7e921e983ee" version="1">Невидимый слуга</content>
+	<content contentuid="ha240c09fge3e5g44d4g8377g26d5112ea6b6" version="1">Создать невидимую, бессознательную и бесформенную силу Среднего размера, выполняющую отдаваемые вами простые поручения.</content>
+
+	<content contentuid="he2888e26g9923g4ac0ga1a2gd790f2b657b7" version="1">Ледяные пальцы</content>
+	<content contentuid="h5b97cefeg69bfg45c7gaf69ge719dd556a87" version="1">Леденящий холод вырывается из ваших пальцев, замораживая все, что может.</content>
+
+	<content contentuid="ha4e51ef9g3de8g42e0g9a18gf5364e9e62b9" version="1">Щит</content>
+	<content contentuid="h44aa1dfag70c5g4a48gbce5g5bdc45b2f8c1" version="1">Невидимый барьер из магической силы появляется, защищая вас.</content>
+	<content contentuid="h47528f36g1a08g4d55gbdbdgd77ad3051f02" version="1">До начала своего следующего хода вы получаете бонус +5 к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt;, в том числе и против вызвавшей срабатывание атаки, и вы не получаете урон от &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;Волшебных стрел&lt;/LSTag&gt;.</content>
+
+	<content contentuid="h759db55eg6088g4173g8234g38c6d5a7b207" version="1">Щит</content>
+	<content contentuid="hcdbfc06agf8afg46d8gb51dg9977cbc98239" version="1">Перед тем как получить урон от следующей атаки, вы получаете бонус +5 к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt;, в том числе и против вызвавшей срабатывание атаки, и вы не получаете урон от &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;Волшебных стрел&lt;/LSTag&gt; до начала своего следующего хода.</content>
+
+	<content contentuid="hc691b598g7fa2g4f07gbd4dg92deccdad158" version="1">Щит</content>
+	<content contentuid="hec28cb32g6b51g4538gbccdgebea9293e87c" version="1">Бонус +5 к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt; и &lt;LSTag Tooltip="Immune"&gt;невосприимчивость&lt;/LSTag&gt; к урону от &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;Волшебных стрел&lt;/LSTag&gt;.</content>
+
 	<content contentuid="h8b7c84cdg5755g467fga164g8d364eba9865" version="1">5eSpells_Target_Heroism_SpellData_DisplayName</content>
 	<content contentuid="h1747ef1fg7a79g42eagb2d3gaaadbb80d841" version="1">5eSpells_Target_Heroism_SpellData_Description</content>
+
 	<content contentuid="h39339498g66cfg4840g9de8gc6693b2055b1" version="1">5eSpells_Target_Ceremony_SpellData_DisplayName</content>
 	<content contentuid="hf2898b28gb55eg43ebgb840g63c44d9e1864" version="1">5eSpells_Target_Ceremony_SpellData_Description</content>
+
 	<content contentuid="h27750f06g068dg4fa8gb76bge792f0bdd04e" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_DisplayName</content>
 	<content contentuid="h117e11d3gb0e5g417dg88c5gfaa623a31c38" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_Description</content>
-	<content contentuid="hd45fe588g7591g42b9gb234g156d36d31df6" version="1">5eSpells_Target_BeastBond_SpellData_DisplayName</content>
-	<content contentuid="h8d259fbbg7462g4cc5gb51eg23c0ba9c330a" version="1">5eSpells_Target_BeastBond_SpellData_Description</content>
+
 	<content contentuid="h1c27e253g2be0g4ff3gbb61g4dff6b41f520" version="1">5eSpells_Target_ChaosBolt_SpellData_DisplayName</content>
 	<content contentuid="h99af3d3egb4d0g463cg983eg8205298515d0" version="1">5eSpells_Target_ChaosBolt_SpellData_Description</content>
 	<content contentuid="h8246359bg2940g41ffga830g71c59048c24d" version="1">5eSpells_Target_ChaosBolt_SpellData_ExtraDescription</content>
+
+	<content contentuid="h8680a9a0gb72cg42e9gad61g6b5135ad416f" version="1">Наносит [1] каждый ход.</content>
 </contentList>

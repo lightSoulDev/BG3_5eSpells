@@ -110,15 +110,36 @@
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="Content" type="TranslatedString" handle="hd45fe588g7591g42b9gb234g156d36d31df6" version="1" />
-					<attribute id="UUID" type="FixedString" value="5eSpells_Target_BeastBond_SpellData_DisplayName" />
+					<attribute id="Content" type="TranslatedString" handle="h1c27e253g2be0g4ff3gbb61g4dff6b41f520" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Target_ChaosBolt_SpellData_DisplayName" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="Content" type="TranslatedString" handle="h1c27e253g2be0g4ff3gbb61g4dff6b41f520" version="1" />
-					<attribute id="UUID" type="FixedString" value="5eSpells_Target_ChaosBolt_SpellData_DisplayName" />
+					<attribute id="Content" type="TranslatedString" handle="h759db55eg6088g4173g8234g38c6d5a7b207" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Interrupt_Shield_InterruptData_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hea8f303dge51cg4003gb2e1g64857590ac16" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_CAUSTIC_BREW_StatusData_BOOST_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h9e1aa47dg0925g4af6g8081g3f1dab17cc2b" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_CATAPULT_StatusData_BOOST_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hc691b598g7fa2g4f07gbd4dg92deccdad158" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_SHIELD_StatusData_BOOST_DisplayName" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />

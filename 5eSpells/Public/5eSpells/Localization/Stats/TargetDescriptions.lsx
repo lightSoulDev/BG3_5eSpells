@@ -194,13 +194,6 @@
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
 				<node id="TranslatedStringKey">
-					<attribute id="Content" type="TranslatedString" handle="h8d259fbbg7462g4cc5gb51eg23c0ba9c330a" version="1" />
-					<attribute id="UUID" type="FixedString" value="5eSpells_Target_BeastBond_SpellData_Description" />
-					<attribute id="Speaker" type="FixedString" value="" />
-					<attribute id="ExtraData" type="LSString" value="" />
-					<attribute id="Stub" type="bool" value="True" />
-				</node>
-				<node id="TranslatedStringKey">
 					<attribute id="Content" type="TranslatedString" handle="h99af3d3egb4d0g463cg983eg8205298515d0" version="1" />
 					<attribute id="UUID" type="FixedString" value="5eSpells_Target_ChaosBolt_SpellData_Description" />
 					<attribute id="Speaker" type="FixedString" value="" />
@@ -217,6 +210,41 @@
 				<node id="TranslatedStringKey">
 					<attribute id="Content" type="TranslatedString" handle="h94f2f46bg51e5g4debg93f6gd2425fe45191" version="1" />
 					<attribute id="UUID" type="FixedString" value="5eSpells_Zone_TashasCausticBrew_SpellData_ExtraDescription" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h1567ee7dg2566g4591gb0f7g024f8cb9e095" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Shout_EarthTremor_SpellData_ExtraDescription" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hcdbfc06agf8afg46d8gb51dg9977cbc98239" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Interrupt_Shield_InterruptData_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h8680a9a0gb72cg42e9gad61g6b5135ad416f" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_DEALS_DAMAGE_PER_TURN_Custom_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hd52cce35ga025g4071gb013g79e0ee241e9b" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_CATAPULT_StatusData_BOOST_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hec28cb32g6b51g4538gbccdgebea9293e87c" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_SHIELD_StatusData_BOOST_Description" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />

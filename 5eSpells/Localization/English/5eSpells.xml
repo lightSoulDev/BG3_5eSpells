@@ -84,33 +84,53 @@
   <content contentuid="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1">Catapult</content> 
   <content contentuid="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1">Surround a loose object weighing [1] lbs or less with force, preparing it to be launched at a creature.</content> 
   <content contentuid="h02b4c12ag5b4eg4523g91dfgb28fb29fb57f" version="1">Launch a previously chosen object at a creature.</content>
+	
+  <content contentuid="h9e1aa47dg0925g4af6g8081g3f1dab17cc2b" version="1">Catapult</content>
+	<content contentuid="hd52cce35ga025g4071gb013g79e0ee241e9b" version="1">This object is prepared to be catapulted.</content>
 
   <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Cause Fear</content>
   <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Awaken the sense of mortality in a creature to become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; of you.</content>
   <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Constructs and undead are immune to this effect. Additionally, the target can repeat the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; on each of its turns.</content>
 	
-  <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
-	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
-	<content contentuid="hf58e6f29ge97bg40d5gbe6egdc3c94f8c2fb" version="1">5eSpells_Shout_EarthTremor_SpellData_DisplayName</content>
-	<content contentuid="hfcde2f80gec16g41a5gaf31ga18fc1df51db" version="1">5eSpells_Shout_EarthTremor_SpellData_Description</content>
-	<content contentuid="hfbc4e4c0g9c8ag4aebgbbfegb7e921e983ee" version="1">5eSpells_Target_UnseenServant_SpellData_DisplayName</content>
-	<content contentuid="ha240c09fge3e5g44d4g8377g26d5112ea6b6" version="1">5eSpells_Target_UnseenServant_SpellData_Description</content>
-	<content contentuid="he2888e26g9923g4ac0ga1a2gd790f2b657b7" version="1">5eSpells_Zone_FrostFingers_SpellData_DisplayName</content>
-	<content contentuid="h5b97cefeg69bfg45c7gaf69ge719dd556a87" version="1">5eSpells_Zone_FrostFingers_SpellData_Description</content>
-	<content contentuid="ha4e51ef9g3de8g42e0g9a18gf5364e9e62b9" version="1">5eSpells_Shout_Shield_SpellData_DisplayName</content>
-	<content contentuid="h44aa1dfag70c5g4a48gbce5g5bdc45b2f8c1" version="1">5eSpells_Shout_Shield_SpellData_Description</content>
-	<content contentuid="h47528f36g1a08g4d55gbdbdgd77ad3051f02" version="1">5eSpells_Shout_Shield_SpellData_ExtraDescription</content>
+  <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">Tasha’s Caustic Brew</content>
+	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">A stream of acid emanates from you in a line [1] long and [2] wide in a direction you choose.</content>
+  <content contentuid="h94f2f46bg51e5g4debg93f6gd2425fe45191" version="1">Each creature in the line must succeed on a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be covered in acid for the spell’s duration. A creature covered in the acid takes [1] at start of each of its turns.</content>
+	
+  <content contentuid="hea8f303dge51cg4003gb2e1g64857590ac16" version="1">Tasha's Acid</content>
+
+	<content contentuid="hf58e6f29ge97bg40d5gbe6egdc3c94f8c2fb" version="1">Earth Tremor</content>
+	<content contentuid="hfcde2f80gec16g41a5gaf31ga18fc1df51db" version="1">You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On a failed save, a creature takes [1] and is knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h1567ee7dg2566g4591gb0f7g024f8cb9e095" version="1">If the ground in that area is loose earth or stone, it becomes difficult terrain - &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is halved.</content>
+
+	<content contentuid="hfbc4e4c0g9c8ag4aebgbbfegb7e921e983ee" version="1">Unseen Servant</content>
+	<content contentuid="ha240c09fge3e5g44d4g8377g26d5112ea6b6" version="1">Create an invisible, mindless, shapeless, medium force that performs simple tasks at your command until the spell ends.</content>
+
+	<content contentuid="he2888e26g9923g4ac0ga1a2gd790f2b657b7" version="1">Frost Fingers</content>
+	<content contentuid="h5b97cefeg69bfg45c7gaf69ge719dd556a87" version="1">Freezing cold blasts from your fingertips freezing everything that can be frozen.</content>
+
+	<content contentuid="ha4e51ef9g3de8g42e0g9a18gf5364e9e62b9" version="1">Shield</content>
+	<content contentuid="h44aa1dfag70c5g4a48gbce5g5bdc45b2f8c1" version="1">An invisible barrier of magical force appears and protects you.</content>
+	<content contentuid="h47528f36g1a08g4d55gbdbdgd77ad3051f02" version="1">Until the start of your next turn, you have a +5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;, including against the triggered attack, and you take no damage from &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;Magic Missile&lt;/LSTag&gt;.</content>
+
+  <content contentuid="h759db55eg6088g4173g8234g38c6d5a7b207" version="1">Shield</content>
+	<content contentuid="hcdbfc06agf8afg46d8gb51dg9977cbc98239" version="1">Before getting hit you get a +5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;, including against the triggered attack, and you take no damage from &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;Magic Missile&lt;/LSTag&gt; until the start of your next turn.</content>
+	
+  <content contentuid="hc691b598g7fa2g4f07gbd4dg92deccdad158" version="1">Shield</content>
+	<content contentuid="hec28cb32g6b51g4538gbccdgebea9293e87c" version="1">+5 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to damage from &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;Magic Missile&lt;/LSTag&gt;.</content>
+
 	<content contentuid="h8b7c84cdg5755g467fga164g8d364eba9865" version="1">5eSpells_Target_Heroism_SpellData_DisplayName</content>
 	<content contentuid="h1747ef1fg7a79g42eagb2d3gaaadbb80d841" version="1">5eSpells_Target_Heroism_SpellData_Description</content>
+
 	<content contentuid="h39339498g66cfg4840g9de8gc6693b2055b1" version="1">5eSpells_Target_Ceremony_SpellData_DisplayName</content>
 	<content contentuid="hf2898b28gb55eg43ebgb840g63c44d9e1864" version="1">5eSpells_Target_Ceremony_SpellData_Description</content>
+
 	<content contentuid="h27750f06g068dg4fa8gb76bge792f0bdd04e" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_DisplayName</content>
 	<content contentuid="h117e11d3gb0e5g417dg88c5gfaa623a31c38" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_Description</content>
-	<content contentuid="hd45fe588g7591g42b9gb234g156d36d31df6" version="1">5eSpells_Target_BeastBond_SpellData_DisplayName</content>
-	<content contentuid="h8d259fbbg7462g4cc5gb51eg23c0ba9c330a" version="1">5eSpells_Target_BeastBond_SpellData_Description</content>
+
 	<content contentuid="h1c27e253g2be0g4ff3gbb61g4dff6b41f520" version="1">5eSpells_Target_ChaosBolt_SpellData_DisplayName</content>
 	<content contentuid="h99af3d3egb4d0g463cg983eg8205298515d0" version="1">5eSpells_Target_ChaosBolt_SpellData_Description</content>
 	<content contentuid="h8246359bg2940g41ffga830g71c59048c24d" version="1">5eSpells_Target_ChaosBolt_SpellData_ExtraDescription</content>
+
+	<content contentuid="h8680a9a0gb72cg42e9gad61g6b5135ad416f" version="1">Deals [1] per turn.</content>
   
-  <content contentuid="h94f2f46bg51e5g4debg93f6gd2425fe45191" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_ExtraDescription [1]</content>
 </contentList>
