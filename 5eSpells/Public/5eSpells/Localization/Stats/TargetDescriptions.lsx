@@ -96,6 +96,41 @@
                     <attribute id="Stub" type="bool" value="True" />
                 </node>
 				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="hb27e7012g9e2cg42e3g9c70gd11190100872" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_BeastBond_SpellData_Description" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_Catapult_SpellData_Description" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h02b4c12ag5b4eg4523g91dfgb28fb29fb57f" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_Catapult_Throw_SpellData_Description" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_CauseFear_SpellData_Description" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_CauseFear_SpellData_ExtraDescription" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+				<node id="TranslatedStringKey">
 					<attribute id="Content" type="TranslatedString" handle="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1" />
 					<attribute id="UUID" type="FixedString" value="5eSpells_Zone_TashasCausticBrew_SpellData_Description" />
 					<attribute id="Speaker" type="FixedString" value="" />

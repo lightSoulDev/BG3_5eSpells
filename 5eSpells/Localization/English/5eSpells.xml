@@ -50,7 +50,7 @@
   <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Spell range increases by [1] per level.</content>
   <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Target deals an additional 1d6 damage of the chosen damage type per level.</content>
   <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Deals an additional 1d6 damage of a random type per level.</content>
-  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Target repeats saving throw each time it takes damage.</content>
+  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Target repeats &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; each time it takes damage.</content>
   <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Arrow still explodes.</content>
   <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Creates two more meteors per level.</content>
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level and can make a number of attacks equal to half spell's level.</content>
@@ -77,6 +77,18 @@
   <content contentuid="hed3a6e09g627eg4b32g8f0bgd6e4203e2669" version="1">Absorb Elements</content>     
   <content contentuid="h55035fceg866cg4709gafe1g1a0b412c8f88" version="1">Capture incoming energy, lessening its effect on you and storing it for your next melee attack.</content>     
   <content contentuid="hfe14636bgaea1g499dg932fg1f020f43ad90" version="1">You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra &lt;i&gt;&lt;b&gt;[1] damage&lt;/b&gt;&lt;/i&gt; of the triggering type, and the spell ends.</content>
-	<content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
+
+  <content contentuid="hc592da99ga11dg4639ga1a9ge7709ca990fd" version="1">Beast Bond</content>
+  <content contentuid="hb27e7012g9e2cg42e3g9c70gd11190100872" version="1">Establish a telepathic link with a friendly beast or one charmed by you. The beast gains &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against creatures within [1] of you.</content>
+
+  <content contentuid="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1">Catapult</content> 
+  <content contentuid="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1">Surround a loose object weighing [1] lbs or less with force, preparing it to be launched at a creature.</content> 
+  <content contentuid="h02b4c12ag5b4eg4523g91dfgb28fb29fb57f" version="1">Launch a previously chosen object at a creature.</content>
+
+  <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Cause Fear</content>
+  <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Awaken the sense of mortality in a creature to become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; of you.</content>
+  <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Constructs and undead are immune to this effect. Additionally, the target can repeat the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; on each of its turns.</content>
+	
+  <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
 	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
 </contentList>

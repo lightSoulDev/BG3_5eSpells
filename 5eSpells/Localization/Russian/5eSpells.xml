@@ -59,7 +59,7 @@
   <content contentuid="h6648959ag7f34g42f2gb8bdg33c81586b937" version="1">Ледяной Кинжал</content>
   <content contentuid="h8f5de285g2b65g4c1bgb090gbb26982b7612" version="1">Осколок всё равно взрывается.</content>
   <content contentuid="h60a28832g1187g4524ga60egc845145c7af7" version="1">Вы создаёте осколок льда и метаете его в одно существо.</content>
-  <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">При попадании осколка цель получает [1]. После этого, вне зависимости от попадания или промаха, осколок взрывается. Цель и все существа в пределах 5 футов от места взрыва осколка должны преуспеть в спасброске Ловкости, иначе получат [2].</content>
+  <content contentuid="h8e3a5b59gd4fcg4854gb42agd921f163196d" version="1">При попадании осколка цель получает [1]. После этого, вне зависимости от попадания или промаха, осколок взрывается. Цель и все существа в пределах 5 футов от места взрыва осколка должны преуспеть в &lt;LSTag Tooltip="SavingThrow"&gt;испытании&lt;/LSTag&gt; Ловкости, иначе получат [2].</content>
 
   <content contentuid="h6a469040g927fg4012ga694ge8f3dc43577d" version="6">Приободрить себя некромантическим подобием жизни, чтобы получить &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
   <content contentuid="h182fee83g1c2eg40e5gb672g94387289f847" version="2">Получено &lt;LSTag Tooltip="TemporaryHitPoints"&gt;[1]&lt;/LSTag&gt;.</content>
@@ -78,6 +78,18 @@
   <content contentuid="hed3a6e09g627eg4b32g8f0bgd6e4203e2669" version="1">Поглощение стихий</content>     
   <content contentuid="h55035fceg866cg4709gafe1g1a0b412c8f88" version="1">Заклинание поглощает часть энергии, направленной на вас, ослабляя эффект и запасая эту энергию для использования во время следующей рукопашной атаки.</content>     
   <content contentuid="hfe14636bgaea1g499dg932fg1f020f43ad90" version="1">До начала своего следующего хода вы получаете сопротивление тому виду урона, который спровоцировал данное заклинание. Кроме того, когда вы впервые попадаете рукопашной атакой в следующем ходу, цель получает дополнительно &lt;i&gt;&lt;b&gt;[1] ед. урона&lt;/b&gt;&lt;/i&gt; этого вида, после чего заклинание заканчивается.</content>
-	<content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
+
+  <content contentuid="hc592da99ga11dg4639ga1a9ge7709ca990fd" version="1">Звериные узы</content>
+  <content contentuid="hb27e7012g9e2cg42e3g9c70gd11190100872" version="1">Вы устанавливаете телепатическую связь с одним Зверем, которого касаетесь, если он дружественен вам или очарован вами. Зверь получает &lt;LSTag Tooltip="Advantage"&gt;преимущество&lt;/LSTag&gt; при &lt;LSTag Tooltip="AttackRoll"&gt;бросках атаки&lt;/LSTag&gt; против существ в пределах [1] от вас.</content>
+
+  <content contentuid="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1">Катапульта</content> 
+  <content contentuid="h0f88a14cgd45dg4b8bgb65fgc5a951ae20f9" version="1">Окружите силой свободный объект весом до [1] фунтов, подготовив его к запуску.</content> 
+  <content contentuid="h02b4c12ag5b4eg4523g91dfgb28fb29fb57f" version="1">Запустить ранее выбранный объект в существо.</content>
+
+  <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Вызов страха</content>
+  <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Вы пробуждаете ощущение смертности у одного существа, которое можете видеть в пределах дистанции, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Пугая&lt;/LSTag&gt; его.</content>
+  <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Конструкты или Нежить имеют иммунитет к этому эффекту. Цель может повторять &lt;LSTag Tooltip="SavingThrow"&gt;испытание&lt;/LSTag&gt; в конце каждого своего хода, оканчивая эффект при успехе.</content>
+	
+  <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
 	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
 </contentList>

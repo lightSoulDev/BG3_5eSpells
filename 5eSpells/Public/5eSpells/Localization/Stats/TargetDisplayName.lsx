@@ -33,6 +33,27 @@
                     <attribute id="Stub" type="bool" value="True" />
                 </node>
 				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="hc592da99ga11dg4639ga1a9ge7709ca990fd" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_BeastBond_SpellData_DisplayName" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h49666b07g1ec9g4ff5g93c7g5bac975bdbd5" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_Catapult_SpellData_DisplayName" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+				<node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1" />
+                    <attribute id="UUID" type="FixedString" value="5eSpells_Target_CauseFear_SpellData_DisplayName" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="True" />
+                </node>
+				<node id="TranslatedStringKey">
 					<attribute id="Content" type="TranslatedString" handle="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1" />
 					<attribute id="UUID" type="FixedString" value="5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName" />
 					<attribute id="Speaker" type="FixedString" value="" />
