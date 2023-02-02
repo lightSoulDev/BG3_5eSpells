@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <save>
 	<version major="4" minor="0" revision="8" build="612" />
 	<region id="TranslatedStringKeys">
@@ -130,6 +130,13 @@
                     <attribute id="ExtraData" type="LSString" value="" />
                     <attribute id="Stub" type="bool" value="True" />
                 </node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Zone_TashasCausticBrew_SpellData_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <contentList date="26/10/2020 01:10">
   <content contentuid="395581f6-e613-49ee-9311-5de834fe8cd7" version="1">Божественное оружие</content>
   <content contentuid="6d9c4d1a-ffa6-4057-85e9-b7fb1ee9c568" version="1">Дневной свет</content>
@@ -88,4 +89,7 @@
   <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Вызов страха</content>
   <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Вы пробуждаете ощущение смертности у одного существа, которое можете видеть в пределах дистанции, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Пугая&lt;/LSTag&gt; его.</content>
   <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Конструкты или Нежить имеют иммунитет к этому эффекту. Цель может повторять &lt;LSTag Tooltip="SavingThrow"&gt;испытание&lt;/LSTag&gt; в конце каждого своего хода, оканчивая эффект при успехе.</content>
+	
+  <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
+	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
 </contentList>
