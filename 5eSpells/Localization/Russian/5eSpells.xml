@@ -50,7 +50,7 @@
   <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Дальность атаки заклинания увеличивается [1] за круг.</content>
   <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Цель наносит дополнительно 1d6 ед. урона выбранного типа за круг.</content>
   <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Наносит дополнительно 1d6 ед. урона случайного типа за круг.</content>
-  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Цель повторяет &lt;LSTag Tooltip="SavingThrow"&gt;спасбпросок&lt;/LSTag&gt; каждый раз когда получает урон.</content>
+  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Цель повторяет &lt;LSTag Tooltip="SavingThrow"&gt;спасбросок&lt;/LSTag&gt; каждый раз когда получает урон.</content>
   <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Стрела все равно взрвывается.</content>
   <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Создает два дополнительных метеора за круг.</content>
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Призыв получает [1] к &lt;LSTag Tooltip="ArmourClass"&gt;КБ&lt;/LSTag&gt;, [2] и наносит дополнительно [1] урона на атаку за круг и может совершить количество атак равных половине круга заклинания.</content>
@@ -88,8 +88,9 @@
 
   <content contentuid="hbf1467e1gcf28g4402g85adge0f5d404666f" version="1">Вызов страха</content>
   <content contentuid="h9eb225c8g8371g4513g85b5g644f71282c4c" version="1">Вы пробуждаете ощущение смертности у одного существа, которое можете видеть в пределах дистанции, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Пугая&lt;/LSTag&gt; его.</content>
-  <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Конструкты или Нежить имеют иммунитет к этому эффекту. Цель может повторять &lt;LSTag Tooltip="SavingThrow"&gt;спасбпросок&lt;/LSTag&gt; в конце каждого своего хода, оканчивая эффект при успехе.</content>
+  <content contentuid="he9b105afgf6ffg4ad5gb49ega3c074cf11a8" version="1">Конструкты или Нежить имеют иммунитет к этому эффекту. Цель может повторять &lt;LSTag Tooltip="SavingThrow"&gt;спасбросок&lt;/LSTag&gt; в конце каждого своего хода, оканчивая эффект при успехе.</content>
 	
-  <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_DisplayName</content>
-	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">5eSpells_Zone_TashasCausticBrew_SpellData_Description</content>
+  <content contentuid="haa1d319ag30d4g4989g9a61gd9d4090b7f17" version="1">Едкое варево Таши</content>
+	<content contentuid="h48f25ca6gbf7ag4a2agb36fg6eba785a2062" version="1">Вы испускаете струю кислоты вдоль линии длиной [1] и шириной [2] в выбранном вами направлении.</content>
+	<content contentuid="h94f2f46bg51e5g4debg93f6gd2425fe45191" version="1">Каждое существо, находящееся на этой линии должно преуспеть в &lt;LSTag Tooltip="SavingThrow"&gt;спасброске&lt;/LSTag&gt; Ловкости, иначе станет покрыто кислотой на время действия заклинания. Существо, покрытое кислотой, получает [1] в начале каждого своего хода.</content>
 </contentList>

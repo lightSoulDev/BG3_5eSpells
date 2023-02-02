@@ -137,6 +137,13 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h94f2f46bg51e5g4debg93f6gd2425fe45191" version="1" />
+					<attribute id="UUID" type="FixedString" value="5eSpells_Zone_TashasCausticBrew_SpellData_ExtraDescription" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>
