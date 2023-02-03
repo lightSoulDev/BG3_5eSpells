@@ -128,9 +128,9 @@
 	<content contentuid="h27750f06g068dg4fa8gb76bge792f0bdd04e" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_DisplayName</content>
 	<content contentuid="h117e11d3gb0e5g417dg88c5gfaa623a31c38" version="1">5eSpells_Shout_DetectEvilAndGood_SpellData_Description</content>
 
-	<content contentuid="h1c27e253g2be0g4ff3gbb61g4dff6b41f520" version="1">5eSpells_Target_ChaosBolt_SpellData_DisplayName</content>
-	<content contentuid="h99af3d3egb4d0g463cg983eg8205298515d0" version="1">5eSpells_Target_ChaosBolt_SpellData_Description</content>
-	<content contentuid="h8246359bg2940g41ffga830g71c59048c24d" version="1">5eSpells_Target_ChaosBolt_SpellData_ExtraDescription</content>
+	<content contentuid="h1c27e253g2be0g4ff3gbb61g4dff6b41f520" version="1">Chaos Bolt</content>
+	<content contentuid="h99af3d3egb4d0g463cg983eg8205298515d0" version="1">Hurl a mass of chaotic energy, dealing &lt;i&gt;&lt;b&gt;2d8 + 1d6 damage&lt;/b&gt;&lt;/i&gt; of a random type between acid, cold, fire, force, lightning, poison, psychic and thunder.</content>
+	<content contentuid="h8246359bg2940g41ffga830g71c59048c24d" version="1">After performing this spell, roll a &lt;i&gt;&lt;b&gt;1d8&lt;/b&gt;&lt;/i&gt; and gain the ability to use this spell on an additional target within [1] of the initial target on a roll of 1.</content>
 
 	<content contentuid="h8680a9a0gb72cg42e9gad61g6b5135ad416f" version="1">Deals [1] per turn.</content>
 
